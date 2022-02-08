@@ -38,3 +38,17 @@ print(full_name)
 
 repet = 'GO '*5
 print(repet)
+
+# Comentários
+
+# computa a percentagem da hora que passou
+percentage = (60 * 100) / 60
+
+percentage = (60 * 100) / 60 # percentagem de uma hora
+
+
+# Depuração
+# Tipos de Erros
+#   Erro de sintaxe
+#   Erro de tempo de execução
+#   Erro semântico
